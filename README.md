@@ -35,9 +35,9 @@
 
 ## ✨ Projects
 ### 1. [여행 플래너](깃주소)
->코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면에서 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너 입니다.
->개발 기간: 2022.5.17 ~ 2022.7.1  
->기술 스택 
->JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI 
+>코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면으로 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너 입니다.</br></br>
+>개발 기간: 2022.5.17 ~ 2022.7.1</br></br>
+>기술 스택</br>
+>JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI</br></br>
 >[프로젝트 상세 설명](깃주소) 참고
 
