@@ -1,51 +1,43 @@
-# 한정수 포트폴리오
->캐치 프레이즈
+# 포트폴리오
+### 문 : 🚪(노크) 안녕하세요 매일 발전해나가는 개발자 입니다!
+### 기 : 기지개 한 번 피고 오늘도 에러를 해결합니다🤔
+### 연 : 연대해서 함께 하는 프로젝트가 즐겁습니다😊
+
+</br></br>
+
+## 💕It's me
+> ### Introduce
+처음 배우는 것들에 현재 정신 없는 하루하루를 보내고 있지만 재미있습니다. 아직 많이 부족하지만 얼른 취업해서 실전을 경험하고 싶습니다.
 
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
+> ### TimeLine
+### 2021
+- 11월 개발자 공부 시작(html, css, python)
 
-</br>
+### 2022
+- 1월 자바 입문
+- 3월 임베디드 소프트웨어 융합 풀스택 개발자 양성과정A 시작
+- 4월 토이 프로젝트(<방 탈출 게임> | 기술스택 : JAVA8)
+- 5월 정보처리기사 필기 합격
+- 5월 CS 발표(<OSI 7Layers>)
+- 6월 토이 프로젝트(<주차 정산 프로그램> | 기술스택 : JAVA8, DBMS(Oracle))
+- 7월 프로젝트(<여행플래너> | 기술스택 : JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI) 
 
-## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+</br></br>
+  
+## 📭 Contact
+- 이메일: kiyamoon@daum.net
+- 블로그: https://turtlemoon.tistory.com
+- 깃헙: https://github.com/kiya-moon
 
-</br>
+</br></br>
 
-## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+## ✨ Projects
+### 1. [여행 플래너](깃주소)
+>코로나가 풀리며 지자체는 물론 정부 차원에서도 국내 여행을 다방면에서 지원하고 있는 흐름에 발맞춰 만든 국내여행 플래너 입니다.
+>개발 기간: 2022.5.17 ~ 2022.7.1  
+>기술 스택 
+>JAVA8, DBMS(Oracle), Html, Css, JQuery, JavaScript, JSP(MVC2), OpenAPI 
+>[프로젝트 상세 설명](깃주소) 참고
 
----
-
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
-
----
-
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
