@@ -285,7 +285,7 @@ public class AddTourlistAction implements Action {
 
 </br></br></br>
 
-## 5. 이슈 및 트러블슈팅
+## 5. 이슈 및 트러블슈팅💣
 > ### 이슈
 > 이번 프로젝트의 가장 큰 이슈는 시간 부족이었다.</br>
 > 여행플래너의 작성 부분이 이번 프로젝트의 핵심 기능이었던 만큼 많은 공을 들였다.</br>
@@ -309,7 +309,7 @@ public class AddTourlistAction implements Action {
 
 </br></br></br>
 
-## 6. 한줄평
+## 6. 한줄평✏️
 > ### 해피하지만 아쉬웠던 프로젝트
 > 7명이라는 많은 사람들이 모인 것치고는 HappyHajo라는 조이름처럼 해피하게 진행되었던 프로젝트였다.</br>
 > 하지만 구현하지 못한 기능들이 있어 아쉬움이 많이 남는다. </br>
